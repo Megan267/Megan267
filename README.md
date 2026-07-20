@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e6e6e,100:ffffff&height=170&section=header&text=Megan%20Britnor&fontSize=45&fontColor=ffffff&fontAlignY=35" />
-</p>
+<h2 align="center">Megan Britnor</h2>
 
 <h3 align="center">🌸 Full-Stack Software Engineer 🌸</h3>
 
@@ -134,8 +132,4 @@
 
 <p align="center">
   <i>✨ "Building scalable, reliable software that makes a meaningful impact." ✨</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:6e6e6e,100:000000&height=150&section=footer" />
 </p>
