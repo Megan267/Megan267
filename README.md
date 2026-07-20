@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:6e4b8a,100:D291BC&height=180&text=Megan%20Britnor&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e6e6e,100:ffffff&height=170&section=header&text=Megan%20Britnor&fontSize=45&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h3 align="center">🌸 Full-Stack Software Engineer 🌸</h3>
@@ -106,18 +106,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megan267&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Megan267&theme=midnight-purple&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megan267&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 ---
 
@@ -149,5 +137,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5EAD7,50:B5A7D6,100:D291BC&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:6e6e6e,100:000000&height=150&section=footer" />
 </p>
