@@ -20,7 +20,7 @@
 - 💻 Full-stack developer with experience in **C#/.NET, Java, ASP.NET Core, SQL Server, HTML, CSS, JavaScript**, and **Kotlin/Android with Firebase**
 - ☁️ I love taking projects from planning ➝ development ➝ testing ➝ **deployment**, using **Microsoft Azure** and **DigitalOcean**
 - 🐳 Comfortable containerising apps with **Docker** and shipping them with **CI/CD pipelines via GitHub Actions**
-- 👩‍🏫 Served as a **1st Year BCAD Tutor** and **Student Representative**, so I love mentoring and explaining tricky concepts
+- 👩‍🏫 Served as a **1st Year BCAD Tutor** (Varsity College), **2nd Year BCAD Tutor** (Emeris Distance Campus), and **Student Representative**, so I love mentoring and explaining tricky concepts
 - 🏆 Top 10 every semester, and **Top Achiever for BCAD 1st Year (2024)** and **2nd Year (2025)**
 - 🌱 Currently exploring new cloud architectures and polishing my mobile development skills
 - 💬 Fluent in **English & Afrikaans**
@@ -53,6 +53,11 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
 
 ---
@@ -102,6 +107,26 @@
       <p>Built with Kotlin & Firebase, with real-time sync, authentication, and location services, with a production release.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h4>✈️ Odyssey - Android Travel App</h4>
+      <p>Kotlin & Jetpack Compose app on an ASP.NET Core API hosted on Azure, with Gemini AI trip planning, Mapbox navigation, a boarding-pass scanner, expense splitting, 472 unit tests, and GitHub Actions CI/CD.</p>
+    </td>
+    <td width="50%">
+      <h4>🌱 Smart Hydro - IoT Hydroponics System</h4>
+      <p>Built for farming in Namibia: sensors send readings over Wi-Fi hotspot, Bluetooth, and LoRa to a 4G gateway and an Azure API, with a role-based app controlling pumps, fans, and grow lights in real time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔐 Secure MERN Freelance Marketplace</h4>
+      <p>MongoDB, Express, React & Node.js with JWT authentication, role-based access, Docker, and a DevSecOps pipeline with automated tests and security scans.</p>
+    </td>
+    <td width="50%">
+      <h4>📡 IoT Telemetry Dashboard</h4>
+      <p>ASP.NET Core dashboard using queues, stacks, hash tables, trees, heaps, and graphs for mesh network routing.</p>
+    </td>
+  </tr>
 </table>
 
 
@@ -113,7 +138,8 @@
 - 🏅 Student Representative, BCAD 1st Year (2024)
 - 🏅 Top 10, both semesters, 1st Year BCAD, 1st position
 - 🏅 **Top Achiever, BCAD 1st Year 2024**
-- 🏅 Selected as Tutor for 1st Year BCAD students
+- 🏅 Selected as Tutor for 1st Year BCAD students (Varsity College, 2025)
+- 🏅 Selected as Tutor for 2nd Year BCAD students (Emeris Distance Campus, 2026)
 - 🏅 Top 10, 1st semester, 2nd Year BCAD, 1st position
 - 🏅 **Top Achiever, BCAD 2nd Year 2025**
 
